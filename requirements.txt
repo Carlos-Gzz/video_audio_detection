@@ -3,6 +3,8 @@ opencv-python-headless
 moviepy
 librosa
 tensorflow
+tensorflow-hub
+librosa
 keras
 pandas
 matplotlib
